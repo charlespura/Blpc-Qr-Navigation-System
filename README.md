@@ -1,4 +1,6 @@
 # BLPC QR Navigation System
+<img width="800" height="500" alt="Screenshot 2026-03-25 at 12 58 04 AM" src="https://github.com/user-attachments/assets/88c58906-fb50-455e-b519-47eada624d5c" />
+<img width="800" height="500" alt="Screenshot 2026-03-25 at 12 58 20 AM" src="https://github.com/user-attachments/assets/2d6e3fa7-1e01-49bc-a7e7-c0de15e3d393" />
 
 A web-based QR code navigation system for gated communities. Guards manage residents and generate QR codes that open Google Maps directly to a resident's exact location.
 
